@@ -5,7 +5,7 @@ Effortlessly Control Your Devices Anywhere, Anytime with Firebase & ESP8266
 Welcome to CloudRelay, a cutting-edge IoT project that allows you to control a relay remotely through the power of Firebase and the versatility of the ESP8266. Whether you're at home or on the go, with CloudRelay, your devices are just a click away!
 
 # 🎯 Features
-*Remote Control:* Seamlessly control your relay from anywhere in the world via Firebase.
+*Remote Control:* Seamlessly control your relay from anywhere in the world via Firebase.  
 *Real-Time Monitoring:* Get instant updates and status reports on your connected devices.
 *Scalable Architecture:* Easily add more relays and devices to your setup without changing the core code.
 *Secure Communication:* Leverage Firebase's robust security protocols to ensure your devices are safe.
