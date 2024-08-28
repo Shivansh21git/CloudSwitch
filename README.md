@@ -2,7 +2,7 @@
 Effortlessly Control Your Devices Anywhere, Anytime with Firebase, ESP8266 & MIT-App Inventor
 
 # 🚀 Overview
-Welcome to CloudSwitch, the ultimate IoT project where the power of cloud connectivity meets seamless control! With FireSwitch, you can remotely control devices via a relay, using Firebase Cloud as the backbone for real-time data exchange. Whether you're looking to automate your home or build the next-gen IoT solution, FireSwitch is your gateway to smart, efficient control.
+Welcome to CloudSwitch, the ultimate IoT project where the power of cloud connectivity meets seamless control! With CloudSwitch, you can remotely control devices via a relay, using Firebase Cloud as the backbone for real-time data exchange. Whether you're looking to automate your home or build the next-gen IoT solution, CloudSwitch is your gateway to smart, efficient control.
 
 # 🎯 Features
 *Remote Control:* Seamlessly control your relay from anywhere in the world via Firebase.  
